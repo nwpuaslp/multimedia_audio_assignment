@@ -27,14 +27,15 @@
   ```
 + 代码中搭建模型和训练部分已空出，需要自己补充完整，关于需要补充部分的说明在代码中已用两行'#'标出
 + 需要补充的部分的输入和输出含义都已经在代码中做了说明，网络输入的各维度含义也作了说明，具体维度可以在代码中合适位置设置断点输出查看
-+ 以下给出一些供参考的文章：
-cs231n:https://www.bilibili.com/video/BV1Dx411n7UE
-MLP基础知识讲解:https://blog.csdn.net/xierhacker/article/details/53282038
-FCNN基础知识讲解:https://zhuanlan.zhihu.com/p/104576756
-CNN基础知识讲解:https://blog.csdn.net/m0_37490039/article/details/79378143
-RNN基础知识讲解:https://blog.csdn.net/zhaojc1995/article/details/80572098
-用CNN做关键词检出:https://www.isca-speech.org/archive/interspeech_2015/papers/i15_1478.pdf
-用DNN做关键词检出:https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=6854370
++ 以下给出一些供参考的文章:  
+cs231n:https://www.bilibili.com/video/BV1Dx411n7UE  
+MLP基础知识讲解:https://blog.csdn.net/xierhacker/article/details/53282038  
+FCNN基础知识讲解:https://zhuanlan.zhihu.com/p/104576756  
+CNN基础知识讲解:https://blog.csdn.net/m0_37490039/article/details/79378143  
+RNN基础知识讲解:https://blog.csdn.net/zhaojc1995/article/details/80572098  
+用CNN做关键词检出:https://www.isca-speech.org/archive/interspeech_2015/papers/i15_1478.pdf  
+用DNN做关键词检出:https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=6854370  
+
 
 ##### 注意事项：
 + 使用的pytorch版本为1.1.0，tensorflow版本为1.14.0，其余需要的库和版本在对应文件夹下的requirements.txt中
